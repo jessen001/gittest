@@ -1,1 +1,1 @@
-int cc = 2;
+string cc = "test-1";
