@@ -1,1 +1,1 @@
-int bb = 1;
+string bb = "test2-1";
